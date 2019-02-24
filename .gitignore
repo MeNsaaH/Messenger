@@ -137,10 +137,7 @@ local_vars.yml
 
 # Vim config
 *.swp
-<<<<<<< HEAD
 
 # Local Settings
 local.py
-=======
 .ycm_extra_conf.py
->>>>>>> bf0e8e4922a2e7ef1bb536704601dae87b9447de
